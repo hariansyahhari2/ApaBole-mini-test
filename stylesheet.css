@@ -117,6 +117,13 @@ footer input {
     width: 212px;
 }
 
+.navitem a:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-top: none;
+    padding-left: 10px;
+    transition: 0.5s;
+}
+
 .navitem {
     width: 212px;
     border-bottom: 1px solid #fff;
@@ -134,7 +141,36 @@ footer input {
 .social-links li {
     float: left;
     color: white;
-    padding: 10px;
+    padding: 2px;
+    margin: 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    box-align: center;
+    display: block;
+}
+
+.twitter i:hover {
+    background-color: rgb(8, 160, 233);
+}
+
+.facebook i:hover {
+    background-color: rgb(59, 89, 152);
+}
+
+.linkedin i:hover {
+    background-color: rgb(0, 119, 181);
+}
+
+.youtube i:hover {
+    background-color: rgb(196, 48, 43);
+}
+
+.instagram i:hover {
+    background-color: rgb(129, 52, 175);
+}
+
+.cogs i:hover {
+    background-color: #696969;
 }
 
 .footer-contacts i {
