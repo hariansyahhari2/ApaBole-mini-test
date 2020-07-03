@@ -59,3 +59,17 @@ header {
     letter-spacing: 5px;
     margin-bottom: 10px;
   }
+.main-content {
+    height: 500px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+}
+.main-content h2 {
+    width: 80%;
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+
+}
