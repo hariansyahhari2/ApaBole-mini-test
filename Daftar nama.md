@@ -3,3 +3,4 @@ Daftar nama kelompok A10:
 2. Dzikrika R H
 3. Ma'rifatu Qolbi
 4. Angga Fratama
+5. M Adrian Gifariadi
