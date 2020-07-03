@@ -204,6 +204,7 @@ footer input {
     opacity: 0.7;
 }
 .row img {
+    width: 550px;
     object-fit: cover;
     display: inline;
 }
@@ -287,6 +288,5 @@ footer input {
     padding: 20px;
     margin-top: 20px;
     color: white;
-    background: orangered;
     text-align: center;
 }
